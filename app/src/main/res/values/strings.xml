@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="buttonText">Oceny</string>
+    <string name="marksHint">Podaj liczbę ocen (5-15)</string>
+    <string name="marksLabelText">Liczba ocen:</string>
+    <string name="surnameHint">Podaj nazwisko</string>
+    <string name="surnameLabelText">Nazwisko:</string>
+    <string name="nameHint">Podaj imię</string>
+    <string name="nameLabelText">Imię:</string>
+    <string name="nameError">Imie nie może być puste!</string>
+    <string name="surnameError">Nazwisko nie może być puste!</string>
+    <string name="emptyMarksError">Musisz podać liczbę ocen!</string>
+    <string name="rangeMarksError">Musisz podać liczbę z zakresu!</string>
+    <string-array name="subjects">
+        <item>Fiz</item>
+        <item>Mat</item>
+        <item>Pol</item>
+        <item>His</item>
+        <item>Ang</item>
+        <item>Ger</item>
+        <item>Inf</item>
+        <item>PP</item>
+        <item>TC</item>
+        <item>BD</item>
+        <item>Alg</item>
+        <item>ElT</item>
+        <item>Fil</item>
+        <item>And</item>
+        <item>iOS</item>
+
+    </string-array>
+</resources>
